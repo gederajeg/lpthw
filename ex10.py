@@ -1,4 +1,7 @@
 # escaping quotes inside the string
+# "I am 6'2\" tall." <- escape double-quote inside string
+# 'I am 6\'2" tall.' <- escape single-quote inside string
+
 
 tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm split\non a line."
